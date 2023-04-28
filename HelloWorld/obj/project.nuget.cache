@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGtnfsuaMbF+KYdFk229trR3znSwuh5uhcfIAR0SYZRm1CsK89uP++96cbiTVKJd0lJP38lSwFLSF/Mc+wmAhA==",
+  "dgSpecHash": "RQNxTXvJHy6kjjLLZ8TFh4scrUo83NtqFtQ2eNIp1aUuk5MZqnfb+nxVtw6h3VOfkrUbwiSRrrMjhgzua33pPg==",
   "success": true,
-  "projectFilePath": "D:\\Unity\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "D:\\Unity\\GitHub\\00_HelloWorld_CG\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

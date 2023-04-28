@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unity\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\Unity\\GitHub\\00_HelloWorld_CG\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\Unity\\GitHub\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\Unity\\GitHub\\00_HelloWorld_CG\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\datnd\\.nuget\\packages\\",
-      "outputPath": "D:\\Unity\\GitHub\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "D:\\Unity\\GitHub\\00_HelloWorld_CG\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
